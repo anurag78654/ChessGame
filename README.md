@@ -64,7 +64,7 @@ Please ensure your code follows the existing code style and passes any relevant 
 
 ## Credits
 
-- **Game Design**: Anurag
-- **Game Logic**:Anurag
+- **Game Design**: AnuragKashyap
+- **Game Logic**: AnuragKashyap
 
 
