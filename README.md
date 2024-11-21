@@ -64,14 +64,7 @@ Please ensure your code follows the existing code style and passes any relevant 
 
 ## Credits
 
-- **Game Design**: [Your Name]
-- **Game Logic**: [Your Name]
-- **Graphics**: Custom chess pieces designed by [Your Name or resource name if applicable].
+- **Game Design**: Anurag
+- **Game Logic**:Anurag
 
-## License
 
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-Enjoy the game and challenge your friends to a match of skill and strategy! 🏆♟️
