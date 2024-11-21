@@ -1,13 +1,12 @@
 
 # Offline Chessboard Template
 
-A simple chessboard template built using HTML, CSS, and JavaScript. This project provides a basic, responsive chessboard layout for use in your own chess game development or as a static chessboard template. The game logic is not included; you can add your own functionality or use this as a starting point.
+A simple chessboard template built using HTML, CSS, and JavaScript. This project provides a basic, responsive chessboard layout for use in your own chess game development or as a static chessboard template. The game logic is not included; you can add your own functionality or use this as a starting point. This game is missing a chess engine that's why there is no such great chess logics.
 
 ## Features
 
 - **Responsive Layout**: The chessboard adapts to different screen sizes, making it suitable for both desktop and mobile devices.
 - **Customizable Chessboard**: Easily modify the board's appearance and piece styles with minimal effort.
-- **No Game Logic**: This project is a template for the chessboard layout. The logic for piece movement, game rules, and multiplayer functionality is not included, leaving you the flexibility to implement these yourself.
 - **Simple Design**: A clean and minimal chessboard design with easy-to-understand layout and color scheme.
 
 ## Tech Stack
@@ -33,7 +32,7 @@ A simple chessboard template built using HTML, CSS, and JavaScript. This project
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/chessboard-template.git
+    git clone https://github.com/anurag78654/chessboard-template.git
     ```
 
 2. **Navigate to the project folder:**
@@ -61,16 +60,4 @@ If you'd like to contribute or add improvements to the template:
 
 Please follow the existing code style and ensure compatibility with the template design.
 
-## Credits
-
-- **Template Design**: [Your Name]
-- **Graphics**: Custom pieces designed by [Your Name or resource name if applicable].
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-Feel free to modify and use this chessboard template for your own chess game projects or as a part of your creative endeavors! 🏁♟️
 
