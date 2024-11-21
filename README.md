@@ -32,13 +32,13 @@ A simple chessboard template built using HTML, CSS, and JavaScript. This project
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/anurag78654/chessboard-template.git
+    git clone https://github.com/anurag78654/ChessGame.git
     ```
 
 2. **Navigate to the project folder:**
 
     ```bash
-    cd chessboard-template
+    cd ChessGame
     ```
 
 3. Open the `index.html` file in your browser to view the chessboard.
